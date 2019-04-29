@@ -1,0 +1,9 @@
+
+.navBar {
+  height: 10vh;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  background: RGBA(235, 106, 136, .65);
+  text-align: center;
+  display: flex;
+}
